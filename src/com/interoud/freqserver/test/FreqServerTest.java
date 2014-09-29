@@ -47,7 +47,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import com.interoud.freqserver.test.parser.FreqServerResponse;
-import com.lambdastream.util.net.HTTPUtils;
+import com.interoud.util.net.HTTPUtils;
 
 @SuppressWarnings("restriction")
 public class FreqServerTest {
